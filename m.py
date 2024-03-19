@@ -1,5 +1,8 @@
 #! /usr/bin/python3
 
+# The ORF finding part is not working right, it is buggy
+# Other parts are alright and producing correct results
+
 sample = "dna.example.fasta"
 test = "dna2.fasta"
 
